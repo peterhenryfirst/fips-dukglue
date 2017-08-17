@@ -1,0 +1,3 @@
+[submodule "dukglue"]
+	path = dukglue
+	url = https://github.com/Aloshi/dukglue.git
